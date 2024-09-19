@@ -9,6 +9,8 @@ Welcome to the Snake Game! This is a classic arcade game where you control a sna
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
 - [How to Play](#how-to-play)
+- [Sample Output](#sample-output) 
+- [Acknowledgements](#acknowledgements)
 
 ## Game Description
 
@@ -49,5 +51,19 @@ The Snake Game is an interactive game where the player controls a snake to eat f
 3. Try to eat the food to grow longer and increase your score.
 4. Avoid colliding with the snake's body or the game boundaries.
 5. If the game ends, press the SPACE key to restart the game and try to beat your high score.
+
+## Sample Output
+### Output Screenshot
+
+### 1]
+<img src="https://github.com/user-attachments/assets/569529bf-d7ac-41b8-b799-1657ca5b1631" alt="Snake Game OutPut 1" width="700" height="400" >
+
+### 2]
+<img src="https://github.com/user-attachments/assets/8da5139f-c51e-4603-9643-416e85556613" alt="Snake Game Output 2" width="400" height="400" >
+
+## Acknowledgements
+
+- I watched a tutorial video on YouTube by Kenny Yip Coding, which guided me through the process of coding and making this game. I followed the tutorial and added some additional features suggested by the video creator.
+- I received valuable assistance in adding comments and refining the code from ChatGPT.
 
 ### Enjoy playing the Snake Game!
